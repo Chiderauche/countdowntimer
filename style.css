@@ -1,0 +1,23 @@
+ body{
+  background-color:aqua;
+ }
+ .visual{
+    display: flex;
+    flex-direction: row;
+ }
+ .info{
+    display: block;
+    text-align: center;
+ }
+ h1{
+    text-align: center;
+ }
+ h2{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    }
+    #timer{
+        color:aliceblue;
+        font-size: 70px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
