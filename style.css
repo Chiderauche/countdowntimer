@@ -33,6 +33,10 @@
  }
  
  @media only screen and (max-width: 900px) {
+   * {
+      text-align: center;
+   }
+
    .visual {
       justify-content: center;
       align-items: center;
@@ -42,22 +46,8 @@
    .image-container, .info {
       width: 90%;
    }
- }
 
- /* .info{
-    display: block;
-    text-align: center;
+   .image-container {
+      margin-top: 1rem;
+   }
  }
- h1{
-    text-align: center;
- }
- h2{
-    text-align: center;
-    font-family:'Times New Roman', Times, serif;
-    }
-    #timer{
-        color:aliceblue;
-        font-size: 70px;
-        font-family: Arial, Helvetica, sans-serif;
-    } */
-
